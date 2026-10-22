@@ -1,2 +1,2 @@
-Work for paper submitted to GRSL.
+Work for paper submitted to RSL.
 
